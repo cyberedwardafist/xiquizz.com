@@ -82,4 +82,3 @@ Ruang tunggu di layar guru bisa diganti temanya. Tiap lobi punya desain avatar, 
 ## Link
 
 [www.xiquizz.com](https://www.xiquizz.com)
-"# xiquizz.com" 
